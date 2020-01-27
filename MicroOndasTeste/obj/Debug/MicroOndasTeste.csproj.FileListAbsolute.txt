@@ -1,0 +1,8 @@
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\obj\Debug\MicroOndasTeste.csprojResolveAssemblyReference.cache
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\bin\Debug\MicroOndasTeste.dll
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\bin\Debug\MicroOndasTeste.pdb
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\bin\Debug\MicroOndasDigital1.exe
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\bin\Debug\MicroOndasDigital1.pdb
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\obj\Debug\MicroOndasTeste.dll
+C:\Users\34651\Desktop\MicroOndasDigital1\MicroOndasTeste\obj\Debug\MicroOndasTeste.pdb
